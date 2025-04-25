@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "nue:block/strippeddragonstem",
+    "rings": "nue:block/strippeddragonstemtop"
+  }
+}

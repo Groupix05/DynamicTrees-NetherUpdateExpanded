@@ -1,0 +1,8 @@
+{
+    "type": "nether_fungus",
+    "common_leaves": "dtnether_update_expanded:dragon",
+    "common_species": "dtnether_update_expanded:dragon",
+    "primitive_log": "nue:dragon_stem",
+    "primitive_stripped_log": "nue:stripped_dragon_stem",
+    "max_branch_radius": 24
+}

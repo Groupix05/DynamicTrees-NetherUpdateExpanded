@@ -1,0 +1,44 @@
+license="MIT"
+modLoader="javafml"
+loaderVersion="[47,)"
+issueTrackerURL="https://github.com/Groupix05/DynamicTrees-NetherUpdateExpanded/issues"
+
+[[mods]]
+modId="dtnether_update_expanded"
+version="${file.jarVersion}"
+displayName="Dynamic Trees for Nether Update Expanded"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-nether-update-expanded"
+logoFile="logo.png"
+credits=""
+authors="Groupix05"
+description='''
+Adds Dynamic Trees compatibility for Nether Update Expanded.
+'''
+
+[[dependencies.dtnether_update_expanded]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dtnether_update_expanded]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dtnether_update_expanded]]
+    modId="dynamictrees"
+    mandatory=true
+    versionRange="[1.3.6,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.dtnether_update_expanded]]
+    modId="nue"
+    mandatory=true
+    versionRange="[2.24,)"
+    ordering="AFTER"
+    side="BOTH"

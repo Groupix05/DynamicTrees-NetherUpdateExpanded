@@ -1,0 +1,56 @@
+[
+  {
+    "select": {
+      "name": "nue:dragon_fungal_jungle"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dtnether_update_expanded:dragon": 4,
+          "dtnether_update_expanded:mega_dragon": 1
+        }
+      },
+      "chance": "standard",
+      "density": [
+        2.0,
+        0.3
+      ]
+    }
+  },
+  {
+    "select": {
+      "name": "nue:elder_fungal_jungle"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dtnether_update_expanded:elder": 4,
+          "dtnether_update_expanded:mega_elder": 1
+        }
+      },
+      "chance": "standard",
+      "density": [
+        2.0,
+        0.3
+      ]
+    }
+  },
+  {
+    "select": {
+      "name": "nue:frosted_forest"
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dtnether_update_expanded:frosted": 4,
+          "dtnether_update_expanded:mega_frosted": 1
+        }
+      },
+      "chance": "standard",
+      "density": [
+        1.3,
+        0.3
+      ]
+    }
+  }
+]

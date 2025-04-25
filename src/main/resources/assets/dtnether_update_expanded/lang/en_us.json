@@ -1,0 +1,14 @@
+{
+  "block.dtnether_update_expanded.dragon_branch": "Dragon Tree",
+  "block.dtnether_update_expanded.elder_branch": "Elder Tree",
+  "block.dtnether_update_expanded.frosted_branch": "Frosted Tree",
+  "item.dtnether_update_expanded.dragon_seed": "Dragon Cap",
+  "item.dtnether_update_expanded.elder_seed": "Elder Cap",
+  "item.dtnether_update_expanded.frosted_seed": "Frosted Cap",
+  "species.dtnether_update_expanded.mega_dragon": "Mega Dragon",
+  "species.dtnether_update_expanded.mega_elder": "Mega Elder",
+  "species.dtnether_update_expanded.mega_frosted": "Mega Frosted",
+  "species.dtnether_update_expanded.dragon": "Dragon",
+  "species.dtnether_update_expanded.elder": "Elder",
+  "species.dtnether_update_expanded.frosted": "Frosted"
+}

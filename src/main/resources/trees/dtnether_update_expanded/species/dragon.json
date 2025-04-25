@@ -1,0 +1,38 @@
+{
+    "type": "nether_fungus",
+    "family": "dtnether_update_expanded:dragon",
+    "tapering": 0,
+    "signal_energy": 18.0,
+    "up_probability": 4,
+    "lowest_branch_height": 3,
+    "growth_rate": 1,
+    "soil_longevity": 3,
+    "growth_logic_kit": "nether_fungus",
+    "leaves_properties": "dtnether_update_expanded:dragon",
+    "environment_factors" : {
+        "#forge:is_cold": 0.25,
+        "#forge:is_wet": 0.75
+    },
+    "perfect_biomes": { "name": "nue:dragon_fungal_jungle" },
+    "primitive_sapling": "nue:dragon_fungus",
+    "acceptable_soils": ["nether_soil_like", "fungus_like", "dirt_like"],
+    "acceptable_growth_blocks": ["nue:dragon_nylium", "dtnether_update_expanded:rooty_dragon_nylium"],
+    "mega_species": "dtnether_update_expanded:mega_dragon",
+    "sapling_shape": "round_mushroom_rim",
+    "model_overrides": {
+        "sapling": "dynamictrees:block/smartmodel/mushroom_round"
+    },
+    "features": [
+        "clear_volume",
+        "shroomlight",
+        {
+            "name": "bottom_flare",
+            "properties": {
+                "min_radius": 7
+            }
+        }
+    ],
+    "lang_overrides": {
+        "seed": "Dragon Cap"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "nether_fungus",
+    "common_leaves": "dtnether_update_expanded:elder",
+    "common_species": "dtnether_update_expanded:elder",
+    "primitive_log": "nue:elder_stem",
+    "primitive_stripped_log": "nue:stripped_elder_stem",
+    "max_branch_radius": 24
+}

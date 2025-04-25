@@ -1,0 +1,10 @@
+[
+  {
+    "__comment": "Cancel huge fungus features from namespace 'nue' in the nether forests.",
+    "select": { "name": "nue:.*", "tag": "#minecraft:is_nether" },
+    "cancellers": {
+      "type": "fungus",
+      "namespace": "nue"
+    }
+  }
+]

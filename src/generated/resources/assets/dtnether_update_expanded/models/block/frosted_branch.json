@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "nue:block/frostedstem2",
+    "rings": "nue:block/frozenstemtop"
+  }
+}
